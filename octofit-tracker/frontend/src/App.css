@@ -1,0 +1,58 @@
+body {
+  background-color: #f8f9fa; /* Light gray background */
+  color: #343a40; /* Dark gray text */
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #007bff; /* Blue navigation menu */
+}
+
+.navbar-brand, .nav-link {
+  color: #ffffff !important; /* White links */
+}
+
+.nav-link:hover {
+  color: #ffc107 !important; /* Yellow on hover */
+}
+
+h1 {
+  color: #007bff; /* Blue headings */
+}
+
+table {
+  background-color: #ffffff; /* White table background */
+  border: 1px solid #dee2e6; /* Light gray border */
+}
+
+table th {
+  background-color: #007bff; /* Blue table header */
+  color: #ffffff; /* White text */
+}
+
+table td {
+  color: #343a40; /* Dark gray text */
+}
+
+button {
+  background-color: #007bff; /* Blue buttons */
+  color: #ffffff; /* White text */
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+.card {
+  border: 1px solid #007bff; /* Blue border */
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+}
+
+.card-title {
+  color: #007bff; /* Blue card title */
+}
